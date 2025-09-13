@@ -1,0 +1,19 @@
+@model StudentPortal.Models.Student
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<h2>Create Student</h2>
+
+<form method="post">
+    <div class="mb-3">
+        <label class="form-label">Name</label>
+        <input class="form-control" asp-for="Name" />
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Age</label>
+        <input class="form-control" asp-for="Age" type="number" />
+    </div>
+    <button class="btn btn-primary" type="submit">Save</button>
+    <a class="btn btn-secondary" href="/Student">Cancel</a>
+</form>
