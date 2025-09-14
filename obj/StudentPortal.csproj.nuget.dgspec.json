@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj": {}
+    "c:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj": {
+    "c:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj",
+        "projectUniqueName": "c:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj",
         "projectName": "StudentPortal",
-        "projectPath": "C:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj",
+        "projectPath": "c:\\Users\\Angelinator\\StudentPortal\\StudentPortal.csproj",
         "packagesPath": "C:\\Users\\Angelinator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Angelinator\\StudentPortal\\obj\\",
+        "outputPath": "c:\\Users\\Angelinator\\StudentPortal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Angelinator\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -166,3 +166,4 @@ C:\Users\Angelinator\StudentPortal\obj\Debug\net8.0\refint\StudentPortal.dll
 C:\Users\Angelinator\StudentPortal\obj\Debug\net8.0\StudentPortal.pdb
 C:\Users\Angelinator\StudentPortal\obj\Debug\net8.0\StudentPortal.genruntimeconfig.cache
 C:\Users\Angelinator\StudentPortal\obj\Debug\net8.0\ref\StudentPortal.dll
+c:\Users\Angelinator\StudentPortal\obj\Debug\net8.0\StudentPortal.sourcelink.json

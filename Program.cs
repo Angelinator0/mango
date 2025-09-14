@@ -11,15 +11,14 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-// создаём/обновляем БД (любой из вариантов)
+// создаём/обновляем БД 
 using (var scope = app.Services.CreateScope())
 {
     var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
-    //db.Database.EnsureCreated();   // если не используешь миграции
-    db.Database.EnsureCreated();           // если будешь делать миграции
+     
+    db.Database.EnsureCreated();          
 }
 
-// стандартный пайплайн
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
