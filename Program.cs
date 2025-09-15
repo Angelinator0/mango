@@ -3,10 +3,12 @@ using StudentPortal.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// DbContext + MSSQL
+// Добавляем сервис для подключения к базе данных через DbContext
+// Строка подключения берётся из appsettings.json (ключ "DefaultConnection")
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+// Добавляем поддержку контроллеров с представлениями (MVC)
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

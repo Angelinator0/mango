@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace StudentPortal.Models
 {
+// Класс контекста базы данных. Отвечает за связь моделей с таблицами БД через Entity Framework Core
     public class AppDbContext : DbContext
     {
         public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }

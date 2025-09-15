@@ -17,55 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StudentPortal
 build_property.RootNamespace = StudentPortal
-build_property.ProjectDir = c:\Users\Angelinator\StudentPortal\
+build_property.ProjectDir = C:\Users\Angelinator\StudentPortal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Angelinator\StudentPortal
+build_property.MSBuildProjectDirectory = C:\Users\Angelinator\StudentPortal
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Home/Index.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Home/Privacy.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Shared/Error.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Student/Create.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Student/Details.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Student/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Student/Edit.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Student/Index.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/_ViewImports.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/_ViewStart.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Angelinator/StudentPortal/Views/Shared/_Layout.cshtml]
+[C:/Users/Angelinator/StudentPortal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c84ay4pj83

@@ -1,2 +1,0 @@
-# mango
-Project Activity code.

@@ -1,5 +1,6 @@
 namespace StudentPortal.Models
 {
+    // Модель Enrollment (запись на курс). связующая таблица между Student и Course
     public class Enrollment
     {
         public int Id { get; set; }
